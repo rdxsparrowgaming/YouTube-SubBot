@@ -1,5 +1,5 @@
 '''
-auther : mighty ghost hack - https://www.youtube.com/mightyghosthack
+auther : mighty ghost hack - https://www.youtube.com/c/RDXSPARROWGAMING
 Note : this script works only on windows operating system.
 
 '''
